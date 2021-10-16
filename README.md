@@ -15,5 +15,5 @@ go test -v -run 関数名
 * ベンチマークの結果<br>
 go test -bench . -benchmem
 
-* カバレッジ(テストの網羅率)を計測
+* カバレッジ(テストの網羅率)を計測<br>
 go test -cover
